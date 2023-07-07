@@ -14,7 +14,7 @@ allprojects {
         appName = 'Splattered Pixel Dungeon'
         appPackageName = 'com.splatteredpixel.splatteredpixeldungeon'
 
-        appVersionCode = 001
+        appVersionCode = 734
         appVersionName = '1.0.0'
 
         appJavaCompatibility = JavaVersion.VERSION_1_8
